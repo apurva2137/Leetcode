@@ -14,8 +14,11 @@ public:
         }
     int evalRPN(vector<string>& tokens) {
         stack<int> st;
+
         for(int i=0;i<tokens.size();i++){
+
             if(isvalid(tokens[i])){
+
                 int b= st.top();
                 st.pop();
                 int a=st.top();
@@ -24,8 +27,11 @@ public:
                 int result=calculate(a,b,tokens[i]);
                 st.push(result);
             }
+
             else{
+
                 st.push(stoi(tokens[i]));
+
             }
         }
         return st.top();
