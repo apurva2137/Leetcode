@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/apurva2137/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/apurva2137/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/apurva2137/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0596-classes-more-than-5-students](https://github.com/apurva2137/Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [1161-project-employees-i](https://github.com/apurva2137/Leetcode/tree/master/1161-project-employees-i) |
 | [1338-queries-quality-and-percentage](https://github.com/apurva2137/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/apurva2137/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
