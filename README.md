@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/apurva2137/Leetcode/tree/master/0058-length-of-last-word) |
+| [3379-score-of-a-string](https://github.com/apurva2137/Leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
