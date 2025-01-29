@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/apurva2137/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/apurva2137/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-more-than-5-students](https://github.com/apurva2137/Leetcode/tree/master/0596-classes-more-than-5-students) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/apurva2137/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/apurva2137/Leetcode/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/apurva2137/Leetcode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/apurva2137/Leetcode/tree/master/0626-exchange-seats) |
