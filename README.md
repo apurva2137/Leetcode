@@ -62,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/apurva2137/Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/apurva2137/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/apurva2137/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0575-distribute-candies](https://github.com/apurva2137/Leetcode/tree/master/0575-distribute-candies) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/apurva2137/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/apurva2137/Leetcode/tree/master/0575-distribute-candies) |
 ## Monotonic Stack
 |  |
 | ------- |
