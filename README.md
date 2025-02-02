@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/apurva2137/Leetcode/tree/master/0575-distribute-candies) |
 | [1319-unique-number-of-occurrences](https://github.com/apurva2137/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/apurva2137/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/apurva2137/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/apurva2137/Leetcode/tree/master/0058-length-of-last-word) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/apurva2137/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/apurva2137/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/apurva2137/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3379-score-of-a-string](https://github.com/apurva2137/Leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/apurva2137/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Counting
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/apurva2137/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
