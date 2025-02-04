@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/apurva2137/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/apurva2137/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/apurva2137/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/apurva2137/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
