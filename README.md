@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/apurva2137/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/apurva2137/Leetcode/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/apurva2137/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/apurva2137/Leetcode/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/apurva2137/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2470-removing-stars-from-a-string](https://github.com/apurva2137/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3379-score-of-a-string](https://github.com/apurva2137/Leetcode/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/apurva2137/Leetcode/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/apurva2137/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/apurva2137/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/apurva2137/Leetcode/tree/master/3447-clear-digits) |
 ## Interactive
 |  |
 | ------- |
