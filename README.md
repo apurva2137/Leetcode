@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/apurva2137/Leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/apurva2137/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/apurva2137/Leetcode/tree/master/0443-string-compression) |
+| [0908-middle-of-the-linked-list](https://github.com/apurva2137/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/apurva2137/Leetcode/tree/master/0101-symmetric-tree) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/apurva2137/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
