@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/apurva2137/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/apurva2137/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/apurva2137/Leetcode/tree/master/0575-distribute-candies) |
 | [1319-unique-number-of-occurrences](https://github.com/apurva2137/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/apurva2137/Leetcode/tree/master/0011-container-with-most-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/apurva2137/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/apurva2137/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/apurva2137/Leetcode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/apurva2137/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/apurva2137/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/apurva2137/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/apurva2137/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
