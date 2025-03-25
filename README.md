@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/apurva2137/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/apurva2137/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/apurva2137/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3430-count-days-without-meetings](https://github.com/apurva2137/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/apurva2137/Leetcode/tree/master/0148-sort-list) |
 | [1777-determine-if-two-strings-are-close](https://github.com/apurva2137/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/apurva2137/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3430-count-days-without-meetings](https://github.com/apurva2137/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Tree
 |  |
 | ------- |
