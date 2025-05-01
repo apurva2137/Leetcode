@@ -175,10 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/apurva2137/Leetcode/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/apurva2137/Leetcode/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/apurva2137/Leetcode/tree/master/0101-symmetric-tree) |
 ## Linked List
 |  |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/apurva2137/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
