@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/apurva2137/Leetcode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/apurva2137/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0279-perfect-squares](https://github.com/apurva2137/Leetcode/tree/master/0279-perfect-squares) |
 ## Stack
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/apurva2137/Leetcode/tree/master/0101-symmetric-tree) |
+| [0279-perfect-squares](https://github.com/apurva2137/Leetcode/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/apurva2137/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/apurva2137/Leetcode/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/apurva2137/Leetcode/tree/master/0087-scramble-string) |
+| [0279-perfect-squares](https://github.com/apurva2137/Leetcode/tree/master/0279-perfect-squares) |
 | [0678-valid-parenthesis-string](https://github.com/apurva2137/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/apurva2137/Leetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 ## Heap (Priority Queue)
