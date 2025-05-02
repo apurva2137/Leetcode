@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/apurva2137/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/apurva2137/Leetcode/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/apurva2137/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/apurva2137/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3447-clear-digits](https://github.com/apurva2137/Leetcode/tree/master/3447-clear-digits) |
 ## Design
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/apurva2137/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/apurva2137/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/apurva2137/Leetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/apurva2137/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3430-count-days-without-meetings](https://github.com/apurva2137/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3762-maximize-the-minimum-game-score](https://github.com/apurva2137/Leetcode/tree/master/3762-maximize-the-minimum-game-score) |
 ## Hash Table
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/apurva2137/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/apurva2137/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/apurva2137/Leetcode/tree/master/0739-daily-temperatures) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/apurva2137/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## String
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/apurva2137/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1326-sum-of-floored-pairs](https://github.com/apurva2137/Leetcode/tree/master/1326-sum-of-floored-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/apurva2137/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/apurva2137/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3762-maximize-the-minimum-game-score](https://github.com/apurva2137/Leetcode/tree/master/3762-maximize-the-minimum-game-score) |
 ## Greedy
 |  |
