@@ -5,7 +5,7 @@ public:
         queue<pair<string,int>> q;
         q.push({beginWord,1});
         s.erase(beginWord);
-
+        if(s.find(endWord)==s.end()) return 0;
         while(!q.empty()){
             string word=q.front().first;
             int steps=q.front().second;
