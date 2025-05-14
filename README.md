@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/apurva2137/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/apurva2137/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0174-dungeon-game](https://github.com/apurva2137/Leetcode/tree/master/0174-dungeon-game) |
+| [0220-contains-duplicate-iii](https://github.com/apurva2137/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0283-move-zeroes](https://github.com/apurva2137/Leetcode/tree/master/0283-move-zeroes) |
 | [0391-perfect-rectangle](https://github.com/apurva2137/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0493-reverse-pairs](https://github.com/apurva2137/Leetcode/tree/master/0493-reverse-pairs) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/apurva2137/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0220-contains-duplicate-iii](https://github.com/apurva2137/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/apurva2137/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/apurva2137/Leetcode/tree/master/0148-sort-list) |
+| [0220-contains-duplicate-iii](https://github.com/apurva2137/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/apurva2137/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/apurva2137/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/apurva2137/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/apurva2137/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0493-reverse-pairs](https://github.com/apurva2137/Leetcode/tree/master/0493-reverse-pairs) |
 ## Union Find
 |  |
@@ -372,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/apurva2137/Leetcode/tree/master/0126-word-ladder-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/apurva2137/Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
