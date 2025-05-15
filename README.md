@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/apurva2137/Leetcode/tree/master/0174-dungeon-game) |
 | [0220-contains-duplicate-iii](https://github.com/apurva2137/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0283-move-zeroes](https://github.com/apurva2137/Leetcode/tree/master/0283-move-zeroes) |
+| [0312-burst-balloons](https://github.com/apurva2137/Leetcode/tree/master/0312-burst-balloons) |
 | [0391-perfect-rectangle](https://github.com/apurva2137/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0493-reverse-pairs](https://github.com/apurva2137/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/apurva2137/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/apurva2137/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/apurva2137/Leetcode/tree/master/0174-dungeon-game) |
 | [0279-perfect-squares](https://github.com/apurva2137/Leetcode/tree/master/0279-perfect-squares) |
+| [0312-burst-balloons](https://github.com/apurva2137/Leetcode/tree/master/0312-burst-balloons) |
 | [0542-01-matrix](https://github.com/apurva2137/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/apurva2137/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/apurva2137/Leetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
