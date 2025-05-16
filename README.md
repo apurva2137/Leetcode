@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/apurva2137/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/apurva2137/Leetcode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/apurva2137/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/apurva2137/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/apurva2137/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/apurva2137/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/apurva2137/Leetcode/tree/master/0051-n-queens) |
 | [0126-word-ladder-ii](https://github.com/apurva2137/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0282-expression-add-operators](https://github.com/apurva2137/Leetcode/tree/master/0282-expression-add-operators) |
 ## Bucket Sort
