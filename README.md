@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/apurva2137/Leetcode/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0443-string-compression](https://github.com/apurva2137/Leetcode/tree/master/0443-string-compression) |
+| [0514-freedom-trail](https://github.com/apurva2137/Leetcode/tree/master/0514-freedom-trail) |
 | [0678-valid-parenthesis-string](https://github.com/apurva2137/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/apurva2137/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/apurva2137/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/apurva2137/Leetcode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/apurva2137/Leetcode/tree/master/0130-surrounded-regions) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0514-freedom-trail](https://github.com/apurva2137/Leetcode/tree/master/0514-freedom-trail) |
 | [0547-number-of-provinces](https://github.com/apurva2137/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/apurva2137/Leetcode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/apurva2137/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/apurva2137/Leetcode/tree/master/0130-surrounded-regions) |
 | [0279-perfect-squares](https://github.com/apurva2137/Leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0514-freedom-trail](https://github.com/apurva2137/Leetcode/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/apurva2137/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/apurva2137/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/apurva2137/Leetcode/tree/master/0733-flood-fill) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/apurva2137/Leetcode/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/apurva2137/Leetcode/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/apurva2137/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0514-freedom-trail](https://github.com/apurva2137/Leetcode/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/apurva2137/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/apurva2137/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/apurva2137/Leetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
