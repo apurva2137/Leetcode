@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/apurva2137/Leetcode/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/apurva2137/Leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/apurva2137/Leetcode/tree/master/0282-expression-add-operators) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apurva2137/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1326-sum-of-floored-pairs](https://github.com/apurva2137/Leetcode/tree/master/1326-sum-of-floored-pairs) |
 ## Stack
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/apurva2137/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/apurva2137/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apurva2137/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Queue
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/apurva2137/Leetcode/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/apurva2137/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/apurva2137/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apurva2137/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/apurva2137/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0493-reverse-pairs](https://github.com/apurva2137/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/apurva2137/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/apurva2137/Leetcode/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/apurva2137/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/apurva2137/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apurva2137/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0496-next-greater-element-i](https://github.com/apurva2137/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/apurva2137/Leetcode/tree/master/0575-distribute-candies) |
 | [1319-unique-number-of-occurrences](https://github.com/apurva2137/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -434,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/apurva2137/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/apurva2137/Leetcode/tree/master/0136-single-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/apurva2137/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apurva2137/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
