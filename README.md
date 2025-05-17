@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/apurva2137/Leetcode/tree/master/0282-expression-add-operators) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apurva2137/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0587-erect-the-fence](https://github.com/apurva2137/Leetcode/tree/master/0587-erect-the-fence) |
+| [0781-basic-calculator-iv](https://github.com/apurva2137/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1326-sum-of-floored-pairs](https://github.com/apurva2137/Leetcode/tree/master/1326-sum-of-floored-pairs) |
 ## Stack
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/apurva2137/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/apurva2137/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/apurva2137/Leetcode/tree/master/0739-daily-temperatures) |
+| [0781-basic-calculator-iv](https://github.com/apurva2137/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/apurva2137/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/apurva2137/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3447-clear-digits](https://github.com/apurva2137/Leetcode/tree/master/3447-clear-digits) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apurva2137/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0496-next-greater-element-i](https://github.com/apurva2137/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/apurva2137/Leetcode/tree/master/0575-distribute-candies) |
+| [0781-basic-calculator-iv](https://github.com/apurva2137/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1319-unique-number-of-occurrences](https://github.com/apurva2137/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/apurva2137/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/apurva2137/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/apurva2137/Leetcode/tree/master/0443-string-compression) |
 | [0514-freedom-trail](https://github.com/apurva2137/Leetcode/tree/master/0514-freedom-trail) |
 | [0678-valid-parenthesis-string](https://github.com/apurva2137/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0781-basic-calculator-iv](https://github.com/apurva2137/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/apurva2137/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/apurva2137/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/apurva2137/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/apurva2137/Leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/apurva2137/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/apurva2137/Leetcode/tree/master/0224-basic-calculator) |
+| [0781-basic-calculator-iv](https://github.com/apurva2137/Leetcode/tree/master/0781-basic-calculator-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
