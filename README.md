@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/apurva2137/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/apurva2137/Leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/apurva2137/Leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/apurva2137/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/apurva2137/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/apurva2137/Leetcode/tree/master/0066-plus-one) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/apurva2137/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/apurva2137/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/apurva2137/Leetcode/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/apurva2137/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/apurva2137/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/apurva2137/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/apurva2137/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/apurva2137/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/apurva2137/Leetcode/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/apurva2137/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/apurva2137/Leetcode/tree/master/0087-scramble-string) |
 | [0152-maximum-product-subarray](https://github.com/apurva2137/Leetcode/tree/master/0152-maximum-product-subarray) |
