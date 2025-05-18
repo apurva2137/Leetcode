@@ -4,13 +4,10 @@ public:
         vector<int> indegree(V,0);
         vector<vector<int>> adj(V);
         for(auto& edge: edges){
-            adj[edge[0]].push_back(edge[1]);
+            adj[edge[1]].push_back(edge[0]);
+            indegree[edge[0]]++;
         }
-        for(int i=0; i<V; i++){
-            for(auto it: adj[i]){
-                indegree[it]++;
-            }
-        }
+       
         queue<int> q;
         for(int i=0;i<indegree.size();i++){
             if(indegree[i]==0) q.push(i);
