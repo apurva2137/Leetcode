@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/apurva2137/Leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/apurva2137/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/apurva2137/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/apurva2137/Leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/apurva2137/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/apurva2137/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/apurva2137/Leetcode/tree/master/0224-basic-calculator) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/apurva2137/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/apurva2137/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/apurva2137/Leetcode/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/apurva2137/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/apurva2137/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/apurva2137/Leetcode/tree/master/0087-scramble-string) |
 | [0152-maximum-product-subarray](https://github.com/apurva2137/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -485,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/apurva2137/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/apurva2137/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/apurva2137/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/apurva2137/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
