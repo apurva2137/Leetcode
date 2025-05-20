@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/apurva2137/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/apurva2137/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/apurva2137/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/apurva2137/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/apurva2137/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/apurva2137/Leetcode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/apurva2137/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/apurva2137/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/apurva2137/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/apurva2137/Leetcode/tree/master/0087-scramble-string) |
+| [0120-triangle](https://github.com/apurva2137/Leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/apurva2137/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/apurva2137/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/apurva2137/Leetcode/tree/master/0198-house-robber) |
