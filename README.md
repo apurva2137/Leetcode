@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/apurva2137/Leetcode/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/apurva2137/Leetcode/tree/master/0575-distribute-candies) |
 | [0587-erect-the-fence](https://github.com/apurva2137/Leetcode/tree/master/0587-erect-the-fence) |
+| [0630-course-schedule-iii](https://github.com/apurva2137/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0733-flood-fill](https://github.com/apurva2137/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/apurva2137/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/apurva2137/Leetcode/tree/master/0739-daily-temperatures) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/apurva2137/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/apurva2137/Leetcode/tree/master/0045-jump-game-ii) |
 | [0502-ipo](https://github.com/apurva2137/Leetcode/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/apurva2137/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/apurva2137/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/apurva2137/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/apurva2137/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/apurva2137/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0354-russian-doll-envelopes](https://github.com/apurva2137/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0502-ipo](https://github.com/apurva2137/Leetcode/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/apurva2137/Leetcode/tree/master/0630-course-schedule-iii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/apurva2137/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/apurva2137/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/apurva2137/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/apurva2137/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0502-ipo](https://github.com/apurva2137/Leetcode/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/apurva2137/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0794-swim-in-rising-water](https://github.com/apurva2137/Leetcode/tree/master/0794-swim-in-rising-water) |
 ## Monotonic Queue
 |  |
