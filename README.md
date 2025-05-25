@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/apurva2137/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/apurva2137/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/apurva2137/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/apurva2137/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/apurva2137/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/apurva2137/Leetcode/tree/master/0136-single-number) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/apurva2137/Leetcode/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/apurva2137/Leetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 ## Depth-First Search
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/apurva2137/Leetcode/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Linked List
 |  |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/apurva2137/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/apurva2137/Leetcode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/apurva2137/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/apurva2137/Leetcode/tree/master/0493-reverse-pairs) |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Rolling Hash
 |  |
 | ------- |
