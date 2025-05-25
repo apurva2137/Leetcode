@@ -14,20 +14,17 @@ public:
         if(head==nullptr || head->next==nullptr && head->val == val)
          return nullptr;
 
-        ListNode* temp = head;
         ListNode* dummy = new ListNode(-1);
-        ListNode* node = dummy ;
-
-        while(temp != nullptr){
+        dummy->next = head;
+        ListNode* prev = dummy ; 
+        ListNode* temp = head;
+        while(temp){
             if(temp->val == val) 
-                temp = temp->next;
-            else{
-                ListNode* newnode = new ListNode(temp->val);
-                node->next = newnode;
-                node = node->next;
-                temp = temp->next;
-                
-            }
+                prev->next = temp->next;
+            else
+               prev = prev->next;
+            
+           temp = temp->next;
         }
         return dummy->next;
     }
