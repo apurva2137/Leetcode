@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/apurva2137/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/apurva2137/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0220-contains-duplicate-iii](https://github.com/apurva2137/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0238-product-of-array-except-self](https://github.com/apurva2137/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/apurva2137/Leetcode/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/apurva2137/Leetcode/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/apurva2137/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/apurva2137/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/apurva2137/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1326-sum-of-floored-pairs](https://github.com/apurva2137/Leetcode/tree/master/1326-sum-of-floored-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/apurva2137/Leetcode/tree/master/1833-find-the-highest-altitude) |
