@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-list-the-products-ordered-in-a-period](https://github.com/apurva2137/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/apurva2137/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/apurva2137/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/apurva2137/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/apurva2137/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/apurva2137/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/apurva2137/Leetcode/tree/master/1948-rearrange-products-table) |
