@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-basic-calculator-iv](https://github.com/apurva2137/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0943-sum-of-subarray-minimums](https://github.com/apurva2137/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/apurva2137/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/apurva2137/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2470-removing-stars-from-a-string](https://github.com/apurva2137/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/apurva2137/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3447-clear-digits](https://github.com/apurva2137/Leetcode/tree/master/3447-clear-digits) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/apurva2137/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/apurva2137/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/apurva2137/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2227-sum-of-subarray-ranges](https://github.com/apurva2137/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/apurva2137/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/apurva2137/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/apurva2137/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/apurva2137/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/apurva2137/Leetcode/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/apurva2137/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/apurva2137/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/apurva2137/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## String
 |  |
