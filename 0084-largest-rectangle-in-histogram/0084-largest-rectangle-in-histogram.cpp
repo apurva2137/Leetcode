@@ -1,27 +1,27 @@
 class Solution {
 public:
-    int largestRectangleArea(vector<int>& heights) {
-        stack<int> stack;
-        stack.push(-1);
-        int max_area = 0;
-
-        for (int i = 0; i < heights.size(); i++) {
-            while (stack.top() != -1 && heights[i] <= heights[stack.top()]) {
-                int height = heights[stack.top()];
-                stack.pop();
-                int width = i - stack.top() - 1;
-                max_area = max(max_area, height * width);
-            }
-            stack.push(i);
+    int largestRectangleArea(vector<int>& h) {
+        int n = h.size();
+        vector<int> nse(n);
+        vector<int> pse(n);
+        stack<int> st;
+        for(int i = 0 ; i < n ; i++){
+            while(!st.empty() && h[st.top()] >= h[i]) st.pop();
+            pse[i] = st.empty() ? -1 : st.top();
+            st.push(i);
         }
-
-        while (stack.top() != -1) {
-            int height = heights[stack.top()];
-            stack.pop();
-            int width = heights.size() - stack.top() - 1;
-            max_area = max(max_area, height * width);
+        st = stack<int>();
+        for(int i = n - 1; i>=0 ; i--){
+            while(!st.empty() && h[st.top()] >= h[i]) st.pop();
+            nse[i] = st.empty() ? n : st.top();
+            st.push(i);
         }
-
-        return max_area;        
+    
+        int maxarea = INT_MIN;
+        for(int i = 0 ; i < n ; i++){
+             int area = (nse[i] - pse[i] - 1) * h[i];
+             maxarea = max(maxarea , area);
+        }
+        return maxarea;
     }
 };
