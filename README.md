@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/apurva2137/Leetcode/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/apurva2137/Leetcode/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/apurva2137/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/apurva2137/Leetcode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/apurva2137/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apurva2137/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/apurva2137/Leetcode/tree/master/0391-perfect-rectangle) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/apurva2137/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/apurva2137/Leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/apurva2137/Leetcode/tree/master/0322-coin-change) |
 | [0514-freedom-trail](https://github.com/apurva2137/Leetcode/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/apurva2137/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/apurva2137/Leetcode/tree/master/0547-number-of-provinces) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/apurva2137/Leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/apurva2137/Leetcode/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/apurva2137/Leetcode/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/apurva2137/Leetcode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/apurva2137/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/apurva2137/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/apurva2137/Leetcode/tree/master/0416-partition-equal-subset-sum) |
