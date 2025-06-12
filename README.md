@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/apurva2137/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/apurva2137/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0781-basic-calculator-iv](https://github.com/apurva2137/Leetcode/tree/master/0781-basic-calculator-iv) |
+| [1170-shortest-common-supersequence](https://github.com/apurva2137/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/apurva2137/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/apurva2137/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/apurva2137/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/apurva2137/Leetcode/tree/master/0741-cherry-pickup) |
 | [0943-sum-of-subarray-minimums](https://github.com/apurva2137/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/apurva2137/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1170-shortest-common-supersequence](https://github.com/apurva2137/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/apurva2137/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/apurva2137/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/apurva2137/Leetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
