@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/apurva2137/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3430-count-days-without-meetings](https://github.com/apurva2137/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3639-zero-array-transformation-i](https://github.com/apurva2137/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/apurva2137/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3762-maximize-the-minimum-game-score](https://github.com/apurva2137/Leetcode/tree/master/3762-maximize-the-minimum-game-score) |
 ## Hash Table
 |  |
