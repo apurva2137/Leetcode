@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1891-count-pairs-of-nodes](https://github.com/apurva2137/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/apurva2137/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/apurva2137/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/apurva2137/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/apurva2137/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2227-sum-of-subarray-ranges](https://github.com/apurva2137/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/apurva2137/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
