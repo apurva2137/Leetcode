@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/apurva2137/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/apurva2137/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/apurva2137/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/apurva2137/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/apurva2137/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1326-sum-of-floored-pairs](https://github.com/apurva2137/Leetcode/tree/master/1326-sum-of-floored-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/apurva2137/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/apurva2137/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/apurva2137/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/apurva2137/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/apurva2137/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/apurva2137/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/apurva2137/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/apurva2137/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/apurva2137/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/apurva2137/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/apurva2137/Leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Geometry
