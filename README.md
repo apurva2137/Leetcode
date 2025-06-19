@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/apurva2137/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/apurva2137/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/apurva2137/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/apurva2137/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/apurva2137/Leetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2737-row-with-maximum-ones](https://github.com/apurva2137/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apurva2137/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/apurva2137/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/apurva2137/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/apurva2137/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/apurva2137/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apurva2137/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/apurva2137/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3762-maximize-the-minimum-game-score](https://github.com/apurva2137/Leetcode/tree/master/3762-maximize-the-minimum-game-score) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/apurva2137/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/apurva2137/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/apurva2137/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/apurva2137/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/apurva2137/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/apurva2137/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/apurva2137/Leetcode/tree/master/3430-count-days-without-meetings) |
