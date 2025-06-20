@@ -1,45 +1,42 @@
-
 class Solution {
 public:
-    int minTimeToReach(vector<vector<int>>& moveTime) {
-        int m = moveTime.size();
-        int n = moveTime[0].size();
-        vector<vector<int>> dist(m, vector<int>(n, INT_MAX));
-        priority_queue<
-            pair<int, pair<int, int>>,
-            vector<pair<int, pair<int, int>>>,
-            greater<> 
-        > pq;
+    int minTimeToReach(vector<vector<int>>& time) {
+        int m = time.size();
+        int n = time[0].size();
 
-        dist[0][0] = 0;
-        pq.push({0, {0, 0}});
+        priority_queue<pair<int,pair<int,int>>, vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>> pq;
 
-        int dirs[4][2] = {{0,1}, {1,0}, {0,-1}, {-1,0}};
-        
-        while (!pq.empty()) {
-            auto [t, pos] = pq.top();
-            pq.pop();
-            auto [r, c] = pos;
+        pq.push({0,{0,0}});
+
+        vector<vector<int>> dis(m , vector<int>(n,INT_MAX));
+        dis[0][0] = 0;
+        int row[4] = {-1 , 0 , 1 , 0};
+        int col[4] = {0 , -1 , 0 , 1};
+
+        while(!pq.empty()){
+             auto [t, pos] = pq.top(); 
+             int r = pos.first, c = pos.second;
+             pq.pop();
+             
+             if (t > dis[r][c]) continue;
             
-            if (t > dist[r][c]) continue;
-            
-            if (r == m - 1 && c == n - 1)
-                return t;
+             if(r == m-1 && c == n-1) return t;
 
-            for (auto &d: dirs) {
-                int nr = r + d[0], nc = c + d[1];
-                if (nr < 0 || nr >= m || nc < 0 || nc >= n)
-                    continue;
-                    
-                int wait = max(moveTime[nr][nc], t);
-                int nt = wait + 1;
-                if (nt < dist[nr][nc]) {
-                    dist[nr][nc] = nt;
-                    pq.push({nt, {nr, nc}});
+             for(int i = 0 ; i < 4 ; i++){
+
+                int nr = r + row[i];
+                int nc = c + col[i];
+
+                if(nr >= 0 && nr < m && nc>=0 && nc < n){
+                    int waittime = max(t , time[nr][nc]);
+                    int wt = waittime + 1;
+                    if(wt < dis[nr][nc]){
+                    dis[nr][nc] = wt;
+                    pq.push({wt, {nr,nc}});
+                    }
                 }
-            }
+             }
         }
-        
         return -1;
     }
 };
