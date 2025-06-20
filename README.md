@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/apurva2137/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/apurva2137/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/apurva2137/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2262-solving-questions-with-brainpower](https://github.com/apurva2137/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/apurva2137/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/apurva2137/Leetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2737-row-with-maximum-ones](https://github.com/apurva2137/Leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/apurva2137/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/apurva2137/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/apurva2137/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/apurva2137/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/apurva2137/Leetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apurva2137/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Heap (Priority Queue)
