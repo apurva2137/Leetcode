@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/apurva2137/Leetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2737-row-with-maximum-ones](https://github.com/apurva2137/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apurva2137/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/apurva2137/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/apurva2137/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/apurva2137/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/apurva2137/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
