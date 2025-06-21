@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/apurva2137/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/apurva2137/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/apurva2137/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/apurva2137/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/apurva2137/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3762-maximize-the-minimum-game-score](https://github.com/apurva2137/Leetcode/tree/master/3762-maximize-the-minimum-game-score) |
 ## Hash Table
