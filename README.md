@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/apurva2137/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2262-solving-questions-with-brainpower](https://github.com/apurva2137/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/apurva2137/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/apurva2137/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/apurva2137/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/apurva2137/Leetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/apurva2137/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/apurva2137/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/apurva2137/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/apurva2137/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/apurva2137/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/apurva2137/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/apurva2137/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/apurva2137/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/apurva2137/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/apurva2137/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/apurva2137/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/apurva2137/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/apurva2137/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/apurva2137/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/apurva2137/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/apurva2137/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/apurva2137/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/apurva2137/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/apurva2137/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/apurva2137/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Monotonic Queue
 |  |
