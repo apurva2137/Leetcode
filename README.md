@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/apurva2137/Leetcode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/apurva2137/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/apurva2137/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/apurva2137/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/apurva2137/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/apurva2137/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/apurva2137/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/apurva2137/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/apurva2137/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/apurva2137/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/apurva2137/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1891-count-pairs-of-nodes](https://github.com/apurva2137/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/apurva2137/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/apurva2137/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
