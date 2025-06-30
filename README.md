@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/apurva2137/Leetcode/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/apurva2137/Leetcode/tree/master/0575-distribute-candies) |
 | [0587-erect-the-fence](https://github.com/apurva2137/Leetcode/tree/master/0587-erect-the-fence) |
+| [0594-longest-harmonious-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0630-course-schedule-iii](https://github.com/apurva2137/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0733-flood-fill](https://github.com/apurva2137/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/apurva2137/Leetcode/tree/master/0735-asteroid-collision) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/apurva2137/Leetcode/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/apurva2137/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/apurva2137/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0781-basic-calculator-iv](https://github.com/apurva2137/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0940-fruit-into-baskets](https://github.com/apurva2137/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apurva2137/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/apurva2137/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0424-longest-repeating-character-replacement](https://github.com/apurva2137/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/apurva2137/Leetcode/tree/master/0480-sliding-window-median) |
+| [0594-longest-harmonious-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/apurva2137/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apurva2137/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/apurva2137/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apurva2137/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/apurva2137/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/apurva2137/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -510,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/apurva2137/Leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/apurva2137/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/apurva2137/Leetcode/tree/master/0502-ipo) |
+| [0594-longest-harmonious-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0630-course-schedule-iii](https://github.com/apurva2137/Leetcode/tree/master/0630-course-schedule-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/apurva2137/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/apurva2137/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
