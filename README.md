@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/apurva2137/Leetcode/tree/master/0412-fizz-buzz) |
 | [0587-erect-the-fence](https://github.com/apurva2137/Leetcode/tree/master/0587-erect-the-fence) |
 | [0781-basic-calculator-iv](https://github.com/apurva2137/Leetcode/tree/master/0781-basic-calculator-iv) |
+| [1236-n-th-tribonacci-number](https://github.com/apurva2137/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1326-sum-of-floored-pairs](https://github.com/apurva2137/Leetcode/tree/master/1326-sum-of-floored-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/apurva2137/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/apurva2137/Leetcode/tree/master/1500-count-largest-group) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/apurva2137/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/apurva2137/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/apurva2137/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1236-n-th-tribonacci-number](https://github.com/apurva2137/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/apurva2137/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/apurva2137/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/apurva2137/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/apurva2137/Leetcode/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/apurva2137/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/apurva2137/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Combinatorics
 |  |
