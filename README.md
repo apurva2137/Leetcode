@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1948-rearrange-products-table](https://github.com/apurva2137/Leetcode/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/apurva2137/Leetcode/tree/master/2024-calculate-special-bonus) |
 | [2087-confirmation-rate](https://github.com/apurva2137/Leetcode/tree/master/2087-confirmation-rate) |
+| [3530-odd-and-even-transactions](https://github.com/apurva2137/Leetcode/tree/master/3530-odd-and-even-transactions) |
 ## Array
 |  |
 | ------- |
