@@ -16,6 +16,7 @@ public:
                else{
                    ans.push_back({nums[i],nums[j],nums[k]});
                    j++;
+                   k--;
                    while(nums[j] == nums[j-1] && j<k) j++;
                 }
             }
