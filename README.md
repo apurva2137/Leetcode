@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/apurva2137/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/apurva2137/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/apurva2137/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/apurva2137/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/apurva2137/Leetcode/tree/master/3321-type-of-triangle) |
 ## Stack
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/apurva2137/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/apurva2137/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/apurva2137/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3227-find-missing-and-repeated-values](https://github.com/apurva2137/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/apurva2137/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/apurva2137/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/apurva2137/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/apurva2137/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/apurva2137/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/apurva2137/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/apurva2137/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/apurva2137/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/apurva2137/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/apurva2137/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -840,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/apurva2137/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/apurva2137/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/apurva2137/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/apurva2137/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/apurva2137/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Geometry
 |  |
