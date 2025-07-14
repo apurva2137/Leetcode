@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/apurva2137/Leetcode/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/apurva2137/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/apurva2137/Leetcode/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/apurva2137/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apurva2137/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/apurva2137/Leetcode/tree/master/0391-perfect-rectangle) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/apurva2137/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/apurva2137/Leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/apurva2137/Leetcode/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/apurva2137/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/apurva2137/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/apurva2137/Leetcode/tree/master/0410-split-array-largest-sum) |
