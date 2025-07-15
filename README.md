@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/apurva2137/Leetcode/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0630-course-schedule-iii](https://github.com/apurva2137/Leetcode/tree/master/0630-course-schedule-iii) |
+| [0724-find-pivot-index](https://github.com/apurva2137/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/apurva2137/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/apurva2137/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/apurva2137/Leetcode/tree/master/0739-daily-temperatures) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/apurva2137/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/apurva2137/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/apurva2137/Leetcode/tree/master/0724-find-pivot-index) |
 | [1326-sum-of-floored-pairs](https://github.com/apurva2137/Leetcode/tree/master/1326-sum-of-floored-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/apurva2137/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/apurva2137/Leetcode/tree/master/1833-find-the-highest-altitude) |
