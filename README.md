@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/apurva2137/Leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/apurva2137/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/apurva2137/Leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0262-trips-and-users](https://github.com/apurva2137/Leetcode/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/apurva2137/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-more-than-5-students](https://github.com/apurva2137/Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0596-classes-with-at-least-5-students](https://github.com/apurva2137/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
