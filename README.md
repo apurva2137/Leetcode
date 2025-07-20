@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/apurva2137/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/apurva2137/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/apurva2137/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/apurva2137/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/apurva2137/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/apurva2137/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/apurva2137/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/apurva2137/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/apurva2137/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/apurva2137/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/apurva2137/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/apurva2137/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/apurva2137/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2428-equal-row-and-column-pairs](https://github.com/apurva2137/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/apurva2137/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/apurva2137/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/apurva2137/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/apurva2137/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/apurva2137/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/apurva2137/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/apurva2137/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/apurva2137/Leetcode/tree/master/0214-shortest-palindrome) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/apurva2137/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/apurva2137/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Indexed Tree
 |  |
@@ -955,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/apurva2137/Leetcode/tree/master/0014-longest-common-prefix) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/apurva2137/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/apurva2137/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Number Theory
 |  |
