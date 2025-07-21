@@ -1,29 +1,24 @@
 class Solution {
-    bool part(vector<int>& nums, int i , vector<vector<int>>& dp, int leftsum, int totalsum){
-        int n = nums.size();
-
-        if(leftsum == totalsum/2) return true;
-        
-        if(leftsum > totalsum/2 ) return false;
-
-        if(i >= n){
-            return (leftsum == totalsum/2);
-        }
-        
-        if(dp[i][leftsum] != -1) return dp[i][leftsum];
-
-        bool take = part(nums , i+1 , dp , leftsum + nums[i], totalsum);
-        bool not_take = part(nums , i+1 , dp , leftsum , totalsum);
-
-        return dp[i][leftsum] = (take || not_take);
-    }
 public:
+    bool subset(int i ,vector<int>& arr , int target , vector<vector<int>>& dp){
+        int n = arr.size();
+        if(i >= n) return target == 0;
+        if(target == 0) return true;
+
+        if(dp[i][target]!=-1) return dp[i][target];
+        bool take = false;
+        if(arr[i] <= target){
+            take = subset(i+1 , arr , target - arr[i] , dp);
+        }
+        bool not_take = subset(i+1 , arr , target , dp);
+        return dp[i][target] = take || not_take;
+    }
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
-        int totalsum = accumulate(nums.begin() , nums.end() , 0);
-
-        if(totalsum % 2 !=0) return false; 
-        vector<vector<int>> dp(n , vector<int>(totalsum/2 + 1, -1));
-        return part(nums , 0 , dp, 0, totalsum );
+        int sum = accumulate(nums.begin() , nums.end() ,0);
+        if(sum % 2 != 0) return false;
+        int target = sum/2;
+        vector<vector<int>> dp(n, vector<int>(target+1 , -1));
+        return subset(0 , nums , target , dp);
     }
 };
