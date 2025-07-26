@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/apurva2137/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/apurva2137/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/apurva2137/Leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/apurva2137/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/apurva2137/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/apurva2137/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/apurva2137/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/apurva2137/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/apurva2137/Leetcode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/apurva2137/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/apurva2137/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/apurva2137/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/apurva2137/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/apurva2137/Leetcode/tree/master/0290-word-pattern) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/apurva2137/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/apurva2137/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/apurva2137/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/apurva2137/Leetcode/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/apurva2137/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/apurva2137/Leetcode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/apurva2137/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -759,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/apurva2137/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/apurva2137/Leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/apurva2137/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/apurva2137/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/apurva2137/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/apurva2137/Leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/apurva2137/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -965,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/apurva2137/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/apurva2137/Leetcode/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/apurva2137/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/apurva2137/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Combinatorics
@@ -979,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/apurva2137/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/apurva2137/Leetcode/tree/master/0139-word-break) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/apurva2137/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/apurva2137/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Number Theory
