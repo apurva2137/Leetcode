@@ -1,12 +1,13 @@
 # Write your MySQL query statement below
-WITH CTE AS(
-    SELECT requester_id FROM RequestAccepted
-    UNION ALL
-    SELECT accepter_id FROM RequestAccepted
+with frq as(
+    select requester_id from RequestAccepted
+    union all
+    select accepter_id from RequestAccepted
 )
 
-SELECT requester_id AS id,COUNT(*) AS num
-FROM CTE
-GROUP BY id
-ORDER BY num DESC
-LIMIT 1
+select requester_id as id , count(*) as num
+from frq
+group by id
+order by num desc 
+limit 1
+
