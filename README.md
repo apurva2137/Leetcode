@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/apurva2137/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/apurva2137/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/apurva2137/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/apurva2137/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/apurva2137/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/apurva2137/Leetcode/tree/master/0135-candy) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/apurva2137/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/apurva2137/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/apurva2137/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/apurva2137/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/apurva2137/Leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/apurva2137/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/apurva2137/Leetcode/tree/master/0139-word-break) |
