@@ -1,29 +1,31 @@
 class Solution {
 public:
-    vector<int> findOrder(int V, vector<vector<int>>& edges) {
-        vector<int> in(V,0);
-        vector<vector<int>> adj(V);
+    vector<int> findOrder(int n, vector<vector<int>>& prereq) {
+        vector<int> ans;
+        vector<int> indeg(n);
+        vector<vector<int>> adj(n);
 
-        for(auto edge: edges){
+        for(auto edge: prereq){
             adj[edge[1]].push_back(edge[0]);
-            in[edge[0]]++;
+            indeg[edge[0]]++;
         }
         queue<int> q;
-        for(int i=0;i<in.size();i++){
-           if(in[i]==0) q.push(i);
+
+        for(int i = 0 ; i < n ; i++){
+            if(indeg[i] == 0) q.push(i);
         }
-        vector<int> ans;
         while(!q.empty()){
-            int node= q.front();
+            int node = q.front();
             q.pop();
 
             for(auto it: adj[node]){
-                in[it]--;
-                if(in[it]==0) q.push(it);
+                indeg[it]--;
+
+                if(indeg[it] == 0) q.push(it);
             }
             ans.push_back(node);
         }
-        if(ans.size()==V) return ans;
+        if(ans.size() == n) return ans;
         return {};
     }
 };
