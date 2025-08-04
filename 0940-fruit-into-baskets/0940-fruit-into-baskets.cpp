@@ -1,8 +1,8 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        int left = 0;
-        int right = 0;
+        int left = 0 ;
+        int right = 0 ;
         int n = fruits.size();
         int maxlen = 0;
         unordered_map<int,int> mp;
@@ -17,7 +17,6 @@ public:
             maxlen = max(maxlen , right - left + 1);
             right++;
         }
-
         return maxlen;
     }
 };
