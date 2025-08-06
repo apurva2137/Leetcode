@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-calculate-special-bonus](https://github.com/apurva2137/Leetcode/tree/master/2024-calculate-special-bonus) |
 | [2087-confirmation-rate](https://github.com/apurva2137/Leetcode/tree/master/2087-confirmation-rate) |
 | [3530-odd-and-even-transactions](https://github.com/apurva2137/Leetcode/tree/master/3530-odd-and-even-transactions) |
+| [3767-find-students-who-improved](https://github.com/apurva2137/Leetcode/tree/master/3767-find-students-who-improved) |
 ## Array
 |  |
 | ------- |
