@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/apurva2137/Leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/apurva2137/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/apurva2137/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/apurva2137/Leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/apurva2137/Leetcode/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/apurva2137/Leetcode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/apurva2137/Leetcode/tree/master/0279-perfect-squares) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apurva2137/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/apurva2137/Leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/apurva2137/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/apurva2137/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/apurva2137/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/apurva2137/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/apurva2137/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/apurva2137/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/apurva2137/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apurva2137/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/apurva2137/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/apurva2137/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/apurva2137/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/apurva2137/Leetcode/tree/master/0443-string-compression) |
