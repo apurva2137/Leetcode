@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apurva2137/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0412-fizz-buzz](https://github.com/apurva2137/Leetcode/tree/master/0412-fizz-buzz) |
 | [0479-largest-palindrome-product](https://github.com/apurva2137/Leetcode/tree/master/0479-largest-palindrome-product) |
+| [0564-find-the-closest-palindrome](https://github.com/apurva2137/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/apurva2137/Leetcode/tree/master/0587-erect-the-fence) |
 | [0781-basic-calculator-iv](https://github.com/apurva2137/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1236-n-th-tribonacci-number](https://github.com/apurva2137/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/apurva2137/Leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/apurva2137/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/apurva2137/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/apurva2137/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/apurva2137/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0781-basic-calculator-iv](https://github.com/apurva2137/Leetcode/tree/master/0781-basic-calculator-iv) |
