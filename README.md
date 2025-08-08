@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/apurva2137/Leetcode/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/apurva2137/Leetcode/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/apurva2137/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/apurva2137/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/apurva2137/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/apurva2137/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/apurva2137/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/apurva2137/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0437-path-sum-iii](https://github.com/apurva2137/Leetcode/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/apurva2137/Leetcode/tree/master/0463-island-perimeter) |
 | [0514-freedom-trail](https://github.com/apurva2137/Leetcode/tree/master/0514-freedom-trail) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/apurva2137/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/apurva2137/Leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/apurva2137/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/apurva2137/Leetcode/tree/master/0463-island-perimeter) |
 | [0514-freedom-trail](https://github.com/apurva2137/Leetcode/tree/master/0514-freedom-trail) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/apurva2137/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -887,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/apurva2137/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/apurva2137/Leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/apurva2137/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/apurva2137/Leetcode/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/apurva2137/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/apurva2137/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -1015,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/apurva2137/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/apurva2137/Leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/apurva2137/Leetcode/tree/master/0174-dungeon-game) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/apurva2137/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/apurva2137/Leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/apurva2137/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/apurva2137/Leetcode/tree/master/0733-flood-fill) |
@@ -1044,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/apurva2137/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/apurva2137/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/apurva2137/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/apurva2137/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/apurva2137/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/apurva2137/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1100,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/apurva2137/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/apurva2137/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/apurva2137/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/apurva2137/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/apurva2137/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/apurva2137/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1109,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/apurva2137/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/apurva2137/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/apurva2137/Leetcode/tree/master/0140-word-break-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/apurva2137/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0546-remove-boxes](https://github.com/apurva2137/Leetcode/tree/master/0546-remove-boxes) |
 | [1236-n-th-tribonacci-number](https://github.com/apurva2137/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/apurva2137/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
