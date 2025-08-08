@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/apurva2137/Leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/apurva2137/Leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/apurva2137/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0321-create-maximum-number](https://github.com/apurva2137/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/apurva2137/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/apurva2137/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/apurva2137/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/apurva2137/Leetcode/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/apurva2137/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0321-create-maximum-number](https://github.com/apurva2137/Leetcode/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/apurva2137/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/apurva2137/Leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/apurva2137/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/apurva2137/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/apurva2137/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/apurva2137/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/apurva2137/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/apurva2137/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/apurva2137/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apurva2137/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/apurva2137/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/apurva2137/Leetcode/tree/master/0283-move-zeroes) |
+| [0321-create-maximum-number](https://github.com/apurva2137/Leetcode/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/apurva2137/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/apurva2137/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/apurva2137/Leetcode/tree/master/0455-assign-cookies) |
@@ -535,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/apurva2137/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/apurva2137/Leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/apurva2137/Leetcode/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/apurva2137/Leetcode/tree/master/0321-create-maximum-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/apurva2137/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/apurva2137/Leetcode/tree/master/0409-longest-palindrome) |
