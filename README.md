@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/apurva2137/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/apurva2137/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/apurva2137/Leetcode/tree/master/0412-fizz-buzz) |
+| [0420-strong-password-checker](https://github.com/apurva2137/Leetcode/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/apurva2137/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/apurva2137/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/apurva2137/Leetcode/tree/master/0443-string-compression) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/apurva2137/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/apurva2137/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/apurva2137/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/apurva2137/Leetcode/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/apurva2137/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/apurva2137/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/apurva2137/Leetcode/tree/master/0502-ipo) |
@@ -934,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/apurva2137/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0355-design-twitter](https://github.com/apurva2137/Leetcode/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/apurva2137/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/apurva2137/Leetcode/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/apurva2137/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/apurva2137/Leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/apurva2137/Leetcode/tree/master/0502-ipo) |
