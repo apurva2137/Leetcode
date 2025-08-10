@@ -1,13 +1,8 @@
+from collections import Counter
 class Solution:
     def reorderedPowerOf2(self, n: int) -> bool:
-        signatures = [ # sorted powers
-            "1", "2", "4", "8", "16", "23", "46", "128", "256", "125",
-            "0124", "0248", "0469", "1289", "13468", "23678", "35566",
-            "011237", "122446", "224588", "0145678", "0122579", 
-            "0134449", "0368888", "11266777", "23334455", "01466788",
-            "112234778", "234455668", "012356789", "0112344778",
-            "1234446788", "2244667999", "2345588999"
-        ]
-        num = ''.join(sorted(str(n)))
-        return num in signatures
-        
+        n_count = Counter(str(n))
+        for i in range(31):
+            if Counter(str(1 << i)) == n_count:
+                return True
+        return False
