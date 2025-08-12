@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3792-find-invalid-ip-addresses](https://github.com/apurva2137/Leetcode/tree/master/3792-find-invalid-ip-addresses) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/apurva2137/Leetcode/tree/master/3803-find-products-with-valid-serial-numbers) |
 | [3828-analyze-organization-hierarchy](https://github.com/apurva2137/Leetcode/tree/master/3828-analyze-organization-hierarchy) |
+| [3891-find-category-recommendation-pairs](https://github.com/apurva2137/Leetcode/tree/master/3891-find-category-recommendation-pairs) |
 | [3910-find-books-with-no-available-copies](https://github.com/apurva2137/Leetcode/tree/master/3910-find-books-with-no-available-copies) |
 ## Array
 |  |
