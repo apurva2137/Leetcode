@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3711-first-letter-capitalization-ii](https://github.com/apurva2137/Leetcode/tree/master/3711-first-letter-capitalization-ii) |
 | [3767-find-students-who-improved](https://github.com/apurva2137/Leetcode/tree/master/3767-find-students-who-improved) |
 | [3782-find-valid-emails](https://github.com/apurva2137/Leetcode/tree/master/3782-find-valid-emails) |
+| [3792-find-invalid-ip-addresses](https://github.com/apurva2137/Leetcode/tree/master/3792-find-invalid-ip-addresses) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/apurva2137/Leetcode/tree/master/3803-find-products-with-valid-serial-numbers) |
 | [3910-find-books-with-no-available-copies](https://github.com/apurva2137/Leetcode/tree/master/3910-find-books-with-no-available-copies) |
 ## Array
