@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/apurva2137/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/apurva2137/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0336-palindrome-pairs](https://github.com/apurva2137/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/apurva2137/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/apurva2137/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apurva2137/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/apurva2137/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/apurva2137/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/apurva2137/Leetcode/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/apurva2137/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0355-design-twitter](https://github.com/apurva2137/Leetcode/tree/master/0355-design-twitter) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apurva2137/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/apurva2137/Leetcode/tree/master/0383-ransom-note) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/apurva2137/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/apurva2137/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0336-palindrome-pairs](https://github.com/apurva2137/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/apurva2137/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/apurva2137/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/apurva2137/Leetcode/tree/master/0389-find-the-difference) |
@@ -1153,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/apurva2137/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/apurva2137/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/apurva2137/Leetcode/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/apurva2137/Leetcode/tree/master/0336-palindrome-pairs) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/apurva2137/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/apurva2137/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Number Theory
