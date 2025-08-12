@@ -921,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/apurva2137/Leetcode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/apurva2137/Leetcode/tree/master/0546-remove-boxes) |
 | [0583-delete-operation-for-two-strings](https://github.com/apurva2137/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/apurva2137/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/apurva2137/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [0678-valid-parenthesis-string](https://github.com/apurva2137/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/apurva2137/Leetcode/tree/master/0741-cherry-pickup) |
