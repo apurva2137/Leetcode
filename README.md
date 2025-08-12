@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/apurva2137/Leetcode/tree/master/0587-erect-the-fence) |
 | [0781-basic-calculator-iv](https://github.com/apurva2137/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0826-soup-servings](https://github.com/apurva2137/Leetcode/tree/master/0826-soup-servings) |
+| [0856-consecutive-numbers-sum](https://github.com/apurva2137/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0900-reordered-power-of-2](https://github.com/apurva2137/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1236-n-th-tribonacci-number](https://github.com/apurva2137/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1326-sum-of-floored-pairs](https://github.com/apurva2137/Leetcode/tree/master/1326-sum-of-floored-pairs) |
@@ -1182,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/apurva2137/Leetcode/tree/master/0479-largest-palindrome-product) |
+| [0856-consecutive-numbers-sum](https://github.com/apurva2137/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0900-reordered-power-of-2](https://github.com/apurva2137/Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Doubly-Linked List
 |  |
