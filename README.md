@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/apurva2137/Leetcode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/apurva2137/Leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/apurva2137/Leetcode/tree/master/0282-expression-add-operators) |
+| [0326-power-of-three](https://github.com/apurva2137/Leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/apurva2137/Leetcode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/apurva2137/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/apurva2137/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/apurva2137/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/apurva2137/Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/apurva2137/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/apurva2137/Leetcode/tree/master/0326-power-of-three) |
 | [0781-basic-calculator-iv](https://github.com/apurva2137/Leetcode/tree/master/0781-basic-calculator-iv) |
 ## Divide and Conquer
 |  |
