@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/apurva2137/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/apurva2137/Leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/apurva2137/Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/apurva2137/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/apurva2137/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/apurva2137/Leetcode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/apurva2137/Leetcode/tree/master/0279-perfect-squares) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/apurva2137/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/apurva2137/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/apurva2137/Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/apurva2137/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/apurva2137/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/apurva2137/Leetcode/tree/master/0326-power-of-three) |
 | [0781-basic-calculator-iv](https://github.com/apurva2137/Leetcode/tree/master/0781-basic-calculator-iv) |
@@ -1141,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/apurva2137/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/apurva2137/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/apurva2137/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/apurva2137/Leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/apurva2137/Leetcode/tree/master/0389-find-the-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/apurva2137/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Randomized
