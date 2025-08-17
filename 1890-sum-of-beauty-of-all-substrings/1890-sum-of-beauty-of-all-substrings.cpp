@@ -11,7 +11,7 @@ public:
                     mini = min(mini , it.second);
                     maxi = max(maxi , it.second);
                 }
-                sum = sum + (maxi-mini);
+                sum = sum + (maxi - mini);
             }
         }
         return sum;
