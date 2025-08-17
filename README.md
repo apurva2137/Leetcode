@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/apurva2137/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/apurva2137/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/apurva2137/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/apurva2137/Leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/apurva2137/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/apurva2137/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/apurva2137/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/apurva2137/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/apurva2137/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/apurva2137/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/apurva2137/Leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/apurva2137/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/apurva2137/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/apurva2137/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
