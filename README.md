@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/apurva2137/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/apurva2137/Leetcode/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/apurva2137/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/apurva2137/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/apurva2137/Leetcode/tree/master/0066-plus-one) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/apurva2137/Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/apurva2137/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/apurva2137/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/apurva2137/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/apurva2137/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/apurva2137/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/apurva2137/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/apurva2137/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/apurva2137/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
