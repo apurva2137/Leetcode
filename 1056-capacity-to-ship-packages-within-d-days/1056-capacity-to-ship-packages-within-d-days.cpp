@@ -1,30 +1,27 @@
 class Solution {
 public:
-    bool mincap(int cap , vector<int>& weights, int days ){
-           
-           int load = 0, d=1;
+    int ship(vector<int>& weights, int minw){
+        int total = 0;
+        int day = 1;
 
-           for(auto w : weights ){
-              if(load + w > cap){
-                d++;
-                load = 0 ;
-              }
-              load += w;
-           }
-           return d<=days;
+        for(int i = 0 ; i < weights.size() ; i++){
+            if(total + weights[i] > minw){
+                day++;
+                total = 0;
+            }
+            total += weights[i];
+        }
+        return day;
     }
-
     int shipWithinDays(vector<int>& weights, int days) {
+        int left =*max_element(weights.begin() ,weights.end());
+        int right =accumulate(weights.begin() , weights.end(),0);
 
-        int left= *max_element( weights.begin() , weights.end() );
-        int right= accumulate( weights.begin() , weights.end(), 0);
-
-        int ans = left;
+        int ans = -1;
 
         while(left <= right){
-            int mid = left + ((right - left )/ 2);
-
-            if( mincap( mid, weights, days)){
+            int mid = left + ((right - left)/2);
+            if(ship(weights , mid) <= days){
                 ans = mid;
                 right = mid -1;
             }
