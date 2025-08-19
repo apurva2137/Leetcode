@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/apurva2137/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/apurva2137/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/apurva2137/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/apurva2137/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/apurva2137/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/apurva2137/Leetcode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/apurva2137/Leetcode/tree/master/0402-remove-k-digits) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/apurva2137/Leetcode/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/apurva2137/Leetcode/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/apurva2137/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/apurva2137/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/apurva2137/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/apurva2137/Leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/apurva2137/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
