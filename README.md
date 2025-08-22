@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/apurva2137/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/apurva2137/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/apurva2137/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/apurva2137/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/apurva2137/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/apurva2137/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/apurva2137/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/apurva2137/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/apurva2137/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1891-count-pairs-of-nodes](https://github.com/apurva2137/Leetcode/tree/master/1891-count-pairs-of-nodes) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/apurva2137/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/apurva2137/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/apurva2137/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/apurva2137/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/apurva2137/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/apurva2137/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/apurva2137/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/apurva2137/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/apurva2137/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2634-minimum-common-value](https://github.com/apurva2137/Leetcode/tree/master/2634-minimum-common-value) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/apurva2137/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
@@ -992,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/apurva2137/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/apurva2137/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/apurva2137/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/apurva2137/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/apurva2137/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/apurva2137/Leetcode/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/apurva2137/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1074,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/apurva2137/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/apurva2137/Leetcode/tree/master/0493-reverse-pairs) |
 | [0880-rectangle-area-ii](https://github.com/apurva2137/Leetcode/tree/master/0880-rectangle-area-ii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/apurva2137/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2447-merge-similar-items](https://github.com/apurva2137/Leetcode/tree/master/2447-merge-similar-items) |
 | [3791-fruits-into-baskets-iii](https://github.com/apurva2137/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Union Find
@@ -1183,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/apurva2137/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/apurva2137/Leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/apurva2137/Leetcode/tree/master/0389-find-the-difference) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/apurva2137/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/apurva2137/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Randomized
 |  |
@@ -1263,4 +1269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0949-cat-and-mouse](https://github.com/apurva2137/Leetcode/tree/master/0949-cat-and-mouse) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/apurva2137/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
