@@ -14,7 +14,6 @@ public:
     }
     int change(int amount, vector<int>& coins) {
         int n = coins.size();
-        sort(coins.begin(),coins.end());
         vector<vector<int>> dp(n+1 , vector<int>(amount + 1 , -1));
         return subset(0 , amount, coins , dp);
     }
