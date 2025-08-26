@@ -780,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/apurva2137/Leetcode/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/apurva2137/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/apurva2137/Leetcode/tree/master/0463-island-perimeter) |
 | [0514-freedom-trail](https://github.com/apurva2137/Leetcode/tree/master/0514-freedom-trail) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/apurva2137/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/apurva2137/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/apurva2137/Leetcode/tree/master/0733-flood-fill) |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/apurva2137/Leetcode/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/apurva2137/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/apurva2137/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/apurva2137/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
