@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/apurva2137/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/apurva2137/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/apurva2137/Leetcode/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/apurva2137/Leetcode/tree/master/0060-permutation-sequence) |
@@ -894,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/apurva2137/Leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/apurva2137/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/apurva2137/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/apurva2137/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/apurva2137/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/apurva2137/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/apurva2137/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/apurva2137/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
