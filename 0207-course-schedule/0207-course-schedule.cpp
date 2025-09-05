@@ -1,19 +1,20 @@
 class Solution {
 public:
-    bool canFinish(int n, vector<vector<int>>& prereq) {
-        vector<int> indeg(n);
-        vector<vector<int>> adj(n);
+    bool canFinish(int V, vector<vector<int>>& prereq) {
+        vector<vector<int>> adj(V);
+        vector<int> indeg(V);
+        queue<int> q;
 
-        for(auto edge : prereq){
+        for(auto edge: prereq){
             adj[edge[1]].push_back(edge[0]);
             indeg[edge[0]]++;
         }
-        
-        queue<int> q;
-        for(int i = 0 ; i < indeg.size() ; i++){
+
+        for(int i = 0 ; i < V ; i++){
             if(indeg[i] == 0) q.push(i);
         }
-        vector<int> topo;
+
+        vector<int> ans;
         while(!q.empty()){
             int node = q.front();
             q.pop();
@@ -22,8 +23,8 @@ public:
                 indeg[it]--;
                 if(indeg[it] == 0) q.push(it);
             }
-            topo.push_back(node);
+            ans.push_back(node);
         }
-        return topo.size() == n;
+        return V == ans.size();
     }
 };
