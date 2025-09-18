@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/apurva2137/Leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/apurva2137/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/apurva2137/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/apurva2137/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/apurva2137/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/apurva2137/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/apurva2137/Leetcode/tree/master/0735-asteroid-collision) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/apurva2137/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/apurva2137/Leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/apurva2137/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0658-find-k-closest-elements](https://github.com/apurva2137/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/apurva2137/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/apurva2137/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/apurva2137/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/apurva2137/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/apurva2137/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/apurva2137/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/apurva2137/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/apurva2137/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/apurva2137/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/apurva2137/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/apurva2137/Leetcode/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/apurva2137/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/apurva2137/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/apurva2137/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/apurva2137/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/apurva2137/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -780,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/apurva2137/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/apurva2137/Leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/apurva2137/Leetcode/tree/master/0630-course-schedule-iii) |
+| [0658-find-k-closest-elements](https://github.com/apurva2137/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0900-reordered-power-of-2](https://github.com/apurva2137/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/apurva2137/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/apurva2137/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -1081,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/apurva2137/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/apurva2137/Leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/apurva2137/Leetcode/tree/master/0630-course-schedule-iii) |
+| [0658-find-k-closest-elements](https://github.com/apurva2137/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/apurva2137/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/apurva2137/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/apurva2137/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
