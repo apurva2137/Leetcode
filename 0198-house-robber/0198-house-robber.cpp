@@ -1,19 +1,15 @@
 class Solution {
 public:
-    int rob(vector<int>& nums) {
-        int n=nums.size()-1;
-        vector<int> dp(n+1,-1);
-        return maxsum(nums,dp,n);
+    int amount(int i , vector<int>& nums, vector<int>& dp){
+        if(i >= nums.size()) return 0;
+        if(dp[i] != -1) return dp[i];
+        int take = nums[i] + amount(i+2 , nums, dp);
+        int not_take = amount(i+1 , nums , dp);
+        return dp[i] = max(take,not_take);
     }
-    int maxsum(vector<int>& nums,vector<int>& dp,int n){
-        if(n==0) return nums[n];
-        if(n<0) return 0;
-
-        if(dp[n]!=-1) return dp[n];
-
-        int pick = nums[n] + maxsum(nums,dp,n-2);
-        int not_pick = maxsum(nums,dp,n-1);
-
-        return dp[n]= max(pick , not_pick);
+    int rob(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> dp(n,-1);
+        return amount(0 , nums , dp);
     }
 };
