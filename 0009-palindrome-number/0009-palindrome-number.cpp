@@ -1,10 +1,15 @@
 class Solution {
+public:
+    bool isPalindrome(int x) {
+        if(x < 0) return false;
 
-  public:
-   bool isPalindrome(int x) {
-    string s=to_string(x);
-    reverse(s.begin(),s.end());
-    int num=stoll(s);
-    return x==num;
-  }
+        int temp = x;
+        int rev = 0;
+
+        while(temp > 0){
+            rev = 1LL*rev*10 + temp%10;
+            temp /= 10;
+        }
+        return rev == x;
+    }
 };
