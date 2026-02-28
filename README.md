@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/apurva2137/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/apurva2137/Leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/apurva2137/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/apurva2137/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/apurva2137/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2610-closest-prime-numbers-in-range](https://github.com/apurva2137/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/apurva2137/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/apurva2137/Leetcode/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/apurva2137/Leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/apurva2137/Leetcode/tree/master/0735-asteroid-collision) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/apurva2137/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/apurva2137/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/apurva2137/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/apurva2137/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -1272,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/apurva2137/Leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/apurva2137/Leetcode/tree/master/0389-find-the-difference) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/apurva2137/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/apurva2137/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/apurva2137/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/apurva2137/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Randomized
